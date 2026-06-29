@@ -4,7 +4,7 @@
 
 ## 📌 Project Description
 
-Nova Voice Assistant is a Python application that listens to voice commands and performs tasks such as telling the time, checking the weather, searching Wikipedia, opening websites, sending emails, setting reminders, and more.
+Nova Voice Assistant is a Python application that listens to voice commands and performs tasks such as telling the time, checking the weather, searching Wikipedia, opening websites, sending emails, and more.
 
 This project was developed as part of the **Oasis Infobyte Internship (OIBSIP)**.
 
